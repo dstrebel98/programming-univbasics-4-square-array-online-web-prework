@@ -1,6 +1,6 @@
 def square_array(array)
-colors=[blue,green,purple]
-square_array(colors)
-new_colors=[red,yellow,orange,black]
-square_array(new colors)
+numberss=[4,5,6]
+square_array(numbers)
+new_numbers=[8,11,12,14]
+square_array(new numbers)
 end
